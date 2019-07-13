@@ -1,3 +1,10 @@
+/*
+    Roman numerals are represented by seven 
+    different symbols: I, V, X, L, C, D and M.
+    Given a roman numeral, convert it to an integer. 
+    Input is guaranteed to be within the range from 1 to 3999.
+*/
+
 var values = {  
     'I': 1, 
     'V': 5, 

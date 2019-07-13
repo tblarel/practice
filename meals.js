@@ -1,3 +1,11 @@
+/*
+    Given a meal class and an input array of meal objects, 
+    find the number of unique meals in the array. Two given
+    meals are considered to be the same if they contain the
+    same ingredients regardless of their order.
+*/
+
+
 class Meal {
     constructor(ingredients, name) {
         this.name = name;
